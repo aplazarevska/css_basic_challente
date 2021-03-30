@@ -1,0 +1,38 @@
+body {
+    color: #8f7f87;
+    font-family: 'Abel', sans-serif;
+}
+
+h1 {
+    color: #470928;
+    font-family: 'Train One', cursive;
+    font
+}
+
+b {
+    background-color: #300221;
+}
+
+div {
+    background-color: #4d0936;
+}
+
+.bio {
+    background-image: url("https://www.deftones.com/sites/g/files/g2000010871/f/202008/ohmsfinal.jpg");
+    background-image: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.bio span {
+    background-color: #4d0936;
+    display: inline-block;
+}
+
+.link {
+    color: white;
+}
+
+#backimg {
+    opacity: 0.5;
+}
